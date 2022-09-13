@@ -189,6 +189,14 @@ section{
 .contact .info p{
     font-size: 1.5em;
 }
+#phone{
+    text-decoration: none;
+    color: #000;
+}
+#gmail{
+    text-decoration: none;
+    color: #000;
+}
 .footer{
     background-color: #000016;
     color: #fff;
